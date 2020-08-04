@@ -1,0 +1,18 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# one:
+#   id: 1
+#   name: MyString
+#   email: MyString
+#   created_at: 20200805155412
+#   updated_at: 20200805155412
+#   password_digest: $2a$10$g/A4D6KtaLtxvm2lZ8C.vuPvl8Zu2TrbnPYpM6r59Wu397hlY42GO
+
+
+# two:
+#   id: 1
+#   name: MyString
+#   email: MyString
+#   created_at: 20200805155412
+#   updated_at: 20200805155412
+#   password_digest: $2a$10$g/A4D6KtaLtxvm2lZ8C.vuPvl8Zu2TrbnPYpM6r59Wu397hlY42GO
