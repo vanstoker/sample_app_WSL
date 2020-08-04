@@ -5,6 +5,10 @@ ruby '2.7.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
+# Use Bootstrap
+gem 'bootstrap-sass', '~>3.3.6'
+# For using integration test, must add 'rails-controller-testing'. The terminal say that.
+gem 'rails-controller-testing', '1.0.4'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
