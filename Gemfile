@@ -7,6 +7,8 @@ ruby '2.7.1'
 gem 'rails', '~> 5.2.3'
 # Creates a secure password
 gem 'bcrypt', '3.1.13'
+# jQuery for Rails, необходима для выпадающей кнопки header
+gem 'jquery-rails'
 # Use Bootstrap
 gem 'bootstrap-sass', '~>3.3.6'
 # For using integration test, must add 'rails-controller-testing'. The terminal say that.
