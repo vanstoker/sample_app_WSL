@@ -7,6 +7,11 @@ ruby '2.7.1'
 gem 'rails', '~> 5.2.3'
 # Creates a secure password
 gem 'bcrypt', '3.1.13'
+# Making a fake users for testing
+gem 'faker', '~> 1.4', '>= 1.4.2'
+# Provide the pagination
+gem 'will_paginate', '~> 3.0', '>= 3.0.7'
+gem 'bootstrap-will_paginate', '~> 0.0.10'
 # jQuery for Rails, необходима для выпадающей кнопки header
 gem 'jquery-rails'
 # Use Bootstrap
